@@ -9,7 +9,15 @@ Renewable_Share_Energy - The primary dataset used for this analysis is "Renewabl
 
 ### Tools
   - Python :- Data Extraction and Data Cleaning
+    - Setup
+      -Install Python pandas and sqlalchemy library 
   - Microsoft SQL Server Management Studio :- Data Analysis
+    -  Setup
+       - Install Studio
+       - Create database :- Energy
+       - Create Schema   :- dbo
+       - Table           :- Raw_Energy
+
 
 ### Data Extraction
 
