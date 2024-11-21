@@ -174,6 +174,21 @@ Renewable_Share_Energy - The primary dataset used for this analysis is "Renewabl
       WHERE Country_Rank BETWEEN 1 AND 3
       ORDER BY Year, Max_Renewables DESC;
 ```
+
+### Results/ Finding
+
+- Top 5 Countries with Highest Average Renewable Energy Share:Norway, Iceland, New Zealand, Brazil, Sweden
+- Bottom 5 Countries with Lowest Average Renewable Energy Share:Saudi Arabia, Kuwait, Oman, Turkmenistan, Hong Kong
+- Countries with Minimum Renewable Energy Share: Cyprus and Maximum Renewable Energy Share:Iceland
+- Largest Growth in a Year: 12.34% in 2020.
+- Norway led most years, with others like Iceland and Switzerland occasionally ranking at the top.
+
+### Limitations
+  - Some years or countries had missing or incomplete data.
+  - Data sources might have errors or inconsistencies.
+  - Does not explain reasons behind high or low renewable energy use (e.g., policies, resources).
+  - Overlooks yearly fluctuations and regional differences.
+  - Renewable energy definitions and methods may have changed over time
     
     
 
